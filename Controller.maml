@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDPlusPlus_Builder_Version_1.0.0>
+  <top>
+    <components> controller@Controller&#xd;</components>
+    <in> in1&#xd;</in>
+    <in> in2&#xd;</in>
+    <out> out1&#xd;</out>
+    <out> out2&#xd;</out>
+    <out> out3&#xd;</out>
+    <Link> in1 in1@controller&#xd;</Link>
+    <Link> in2 in2@controller&#xd;</Link>
+    <Link> out1@controller out1&#xd;</Link>
+    <Link> out2@controller out2&#xd;</Link>
+    <Link> out3@controller out3&#xd;</Link>
+  </top>
+  <controller>
+    <processProcessingTime> 00:00:00:010&#xd;</processProcessingTime>
+    <cmpSetProcessingTime> 00:00:03:00&#xd;</cmpSetProcessingTime>
+  </controller>
+</CDPlusPlus_Builder_Version_1.0.0>

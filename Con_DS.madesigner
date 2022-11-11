@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://www.example.org/DEVSModeler" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <CoupledModelType xmi:id="_f5XQ8PzlEeC7GoZn794SpQ" modelName="top" defined="true" sourceFileRelativePath="Con_DS.ma"/>
+  <notation:Diagram xmi:id="_f5X4APzlEeC7GoZn794SpQ" type="DEVS" element="_f5XQ8PzlEeC7GoZn794SpQ" name="Con_DS.madesigner" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_f5X4AfzlEeC7GoZn794SpQ"/>
+  </notation:Diagram>
+</xmi:XMI>
